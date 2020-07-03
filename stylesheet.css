@@ -1,0 +1,41 @@
+.title {
+  color: #2ecc71;
+}
+
+body {
+  margin: 0;
+  font-family: 'segoe ui';
+}
+
+.footer {
+  background-color: #eccc68;
+  margin: 0 auto;
+}
+
+.footer-list {
+  margin-bottom: 10px;
+  transition: all 1s;
+  }
+
+.footer-list:hover {
+  background-color: black;
+}
+
+.footer-list ul {
+  font-size: 18px;
+  color: black;
+  float: left;
+  list-style: none;
+  width: 250px;
+  padding: all 10px;
+  margin: 0 20px 10px 15px;
+}
+
+.footer-list:active {
+  background-color: black;
+}
+
+.footer-list li {
+  font-size: 12px;
+  color: #F79F1F;
+}
